@@ -1,5 +1,5 @@
 package hamspam;
-
+//Test Change!
 public class HamSpam {
 	/**
 	 * Construct an object that can compute hamspam values for a game of 
